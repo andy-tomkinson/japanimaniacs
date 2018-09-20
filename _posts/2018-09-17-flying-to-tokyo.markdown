@@ -63,7 +63,7 @@ Our gentle help takes her leave, we must have said "arigato gozaimas" at least 1
 We stop at Akasaka-mitsuke and walk for 15 minutes in the rain to get to our APA hotel.
 It is a big Japanese hotel chain.
 
-We get to our rooms, wonder at our very own toilets, take a shower, dump our bags and head back outside.
+We get to our room, wonder at our very own toilets, take a shower, dump our bags and head back outside.
 We are staying near the Imperial Palace. 
 It's 9:20pm and a party of guards looks like they are searching for something on the other side of the moat.
 We wander down as runners and bikes go past us. 
