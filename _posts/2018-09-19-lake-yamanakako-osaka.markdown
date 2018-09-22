@@ -36,11 +36,12 @@ The lady host (and cook) points to the soup authoritavely as she pours a very vi
 We leave our hosts to get back to the station for Osaka!
 
 ![brekkie1]({{site.baseurl}}assets/File17.jpg){:class="img-responsive"}
+
 ![brekkie2]({{site.baseurl}}assets/File18.jpg){:class="img-responsive"}
 
 We end up travelling for 5 hours 30... 
 
-Only notable is our bus ride is made slightly more comfortable by the fact we are sat sideways and have a bit more hip space. An American guy is sat on 1 priory seat with his bag on another.
+Only notable is our bus ride is made slightly more comfortable by the fact we are sat sideways and have a bit more hip space. An American guy is sat on 1 priority seat with his bag on another.
 I spend most of the ride silently cursing him given the number of elderly that got on the bus.
 There is a board above the windshield which we assume indicates fares by zone. 
 The numbers change as we advance in our journey. 
@@ -59,6 +60,7 @@ It's our first ride on the Shinkansen (ie the bullet train, it can go up to 320 
 
 We agree on walking to the hotel being quite sick of transport. 
 It's located in the business district of Osaka and big towers sprawl front and back.
+
 ![brekkie2]({{site.baseurl}}assets/File22.jpg){:class="img-responsive"}
 
 We have read Osaka is considered the rudest of Japanese cities.
@@ -76,8 +78,8 @@ Around us, coloured hair, well-defined polished styles, funky shops.
 We spot a few love hotels with adult entertainment. 
 
 ![brekkie2]({{site.baseurl}}assets/File23.jpg){:class="img-responsive"}
-![brekkie2]({{site.baseurl}}assets/File24.jpg){:class="img-responsive"}
 
+![brekkie2]({{site.baseurl}}assets/File24.jpg){:class="img-responsive"}
 
 And finally find a place which seems to do fried skewers (kushikatsu) AND octoballs. Yey!
 
@@ -125,6 +127,7 @@ Only with chopsticks. I resist the urge to take a picture on the sly.
 We go to bed drunk and with very aching feet.
 
 ![brekkie2]({{site.baseurl}}assets/File32.jpg){:class="img-responsive"}
+
 ![brekkie2]({{site.baseurl}}assets/File33.jpg){:class="img-responsive"}
 
 Andy's  highlight: Dotomburi.
