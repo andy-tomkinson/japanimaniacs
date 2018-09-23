@@ -83,7 +83,7 @@ We are absolutely drenched by the time we reach the [Daibutsu-den](https://en.wi
 From buses, pour down throngs of students and tourists probably out on a day trip.
 
 Teens have a good time teasing any of their friends feeding the animals.
-We reach gates guarded on either side by wooden guards. Not just your average gate, on your average guard.
+We reach gates guarded on either side by wooden guards. Not just your average gate, or your average guard.
 
 ![guard]({{site.baseurl}}assets/File38.jpg){:class="img-responsive"}
 
@@ -111,7 +111,7 @@ Rain has finally broken our spirit. On the way home, I acquire some cute deer-re
 
 Hot chocolates count of the day: 3.
 
-Andy is taked with choosing our dinner venue. It is a quest. 
+Andy is tasked with choosing our dinner venue. It is a quest. 
 He finds two very close and highly recommended ramen places.
 We start with the furthest.
 There is a queue outside and a machine.
