@@ -54,7 +54,7 @@ You can rub the matching body part on your and his body and you will feel better
 
 We skip visiting the temple for a fee. Most of their adorned complexity is lost on us uncouth heathens.
 We do however splurge on rice crackers. 
-Some sellers advertise in English, some don't but if you see 150¥, you know you're in for some good stuff.
+Some sellers advertise in English, some don't but if you see 150円, you know you're in for some good stuff.
 
 There is a queue as the owners have vanished inside. A queue of humans and deer.
 A buck starts headbutting a girl as soon as she gets some crackers.

@@ -95,6 +95,7 @@ Our calves, feet and one knee are missing in action.
 We have set our mind on the food option we have not tried yet. The corner shop!
 7/11 and Family Marts sell ready-made fresh food. We get our hands on what is available for the soup and 2 sets of skewers.
 1 set is just chicken skin, the other fried chicken - turns out.
+
 The soup has:
 * herby minced meatballs
 * boiled meat skewers
