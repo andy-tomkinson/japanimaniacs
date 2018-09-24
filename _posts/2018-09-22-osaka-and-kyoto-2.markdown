@@ -19,7 +19,7 @@ The Shinkansen (ie bullet train) is a step up from English trains, the non-Shink
 
 I was not blown away by the Shinkansen. It's as good as the TGV (minus the delays).
 Plus because the fast lines are completely isolated from the regular ones, you always end up having to change to connect to a city. 
-One fun thing about the local trains, which we discover a day later, is that you can grab them by pairs (not to be confused with "by the pussy") and change their orientations. Genius.
+One fun thing about the seat backs on local trains, which we discover a day later, is that you can grab them by pairs (not to be confused with "by the pussy") and change their orientations. Genius.
 
 Today after so much sight-seeing, we are feeling the wounds that plague tourists. Andy has a weakening knee and my soles are almost constantly on fire. Fun times.
 
@@ -60,7 +60,7 @@ We stop half-way. The whole temple is surrounded by bamboo trees and the type of
 
 ![vegetation]({{site.baseurl}}assets/File63.jpg){:class="img-responsive"}
 
-Once outside the temple, we spot a flock a street food sellers who I guess are permanently there because of the number of tourists. Some of their treats are supposed to only be sold during festival times. But good for us I suppose. We get our sticky hands on a dango. It's marshmallowy yummy!
+Once outside the temple, we spot a flock a street food sellers who I guess are permanently there because of the number of tourists. Some of their treats are supposed to only be sold during festival times. But good for us I suppose. We get our sticky hands on a [dango](https://en.wikipedia.org/wiki/Dango){:target="_blank"}. It's marshmallowy yummy!
 
 ![dango]({{site.baseurl}}assets/File65.jpg){:class="img-responsive"}
 
@@ -122,11 +122,7 @@ We walk back to the station bound for the Imperial Palace.
 We totally completely accidentally enter a bookshop with "English books available".
 I fall for a manga about Isabella Bird in English and Japanese.
 
-![IsabellaBirdManga](https://f01.mrcdn.info/file/mrportal/h/b/f/8/fs.3zlZxedo.jpg){:class="img-responsive"}
-
 Andy for a book we think might be similar to "Watching the English", called "The Xenophobic guide to the Japanese" with more of a humourous take.
-
-![Japanese_culture](http://t2.gstatic.com/images?q=tbn:ANd9GcRSrupNc1EOyYgsFinOEkd4HVQRi2FsvflPdOEy689VJrxOAv5E){:class="img-responsive"}
 
 We get to the Imperial Palace, walk around 2/3 of it, can't find the entrance, find another entrance that states "fully booked for the day", give my feet a rest, give the first structure left-over third a go.
 
@@ -155,6 +151,8 @@ Andy reminds me everything comes with rules here. Nyan nyan nyan.
 
 I go for a berry cup, Andy for the nihon cup. Both of us have a matcha flavoured ball and a buckwheat cookie ball.
 A small teapot each – see rule #1001, we are an icecream shop not a café, you cannot change your tea for a coffee.
+
+ ![icecream]({{site.baseurl}}assets/File78.jpg){:class="img-responsive"}
 
 With hindsight, biking might be the best way to visit Kyoto. All the main sites are far from each other and the metro network isn't large enough.
 
