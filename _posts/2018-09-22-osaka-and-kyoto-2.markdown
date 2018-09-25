@@ -34,7 +34,7 @@ I struggle keeping Andy from joining the queue*.
 *this fact might not be entirely accurate.
 
 
-We change trains to get to [Fushimi Inari-taisha](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha). The weather is very muggy. Convenient since the backpack is somehow glued to one of our backs while the plastic umbrella is to the other person's arm. Sexy.
+We change trains to get to [Fushimi Inari-taisha](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha){:target="_blank"}. The weather is very muggy. Convenient since the backpack is somehow glued to one of our backs while the plastic umbrella is to the other person's arm. Sexy.
 
 ![selfie]({{site.baseurl}}assets/File79.jpg){:class="img-responsive"}
 
@@ -156,7 +156,7 @@ A small teapot each – see rule #1001, we are an icecream shop not a café, yo
 
 With hindsight, biking might be the best way to visit Kyoto. All the main sites are far from each other and the metro network isn't large enough.
 
-On our walk back, we spot more geikos. It seems Kyoto is the place Japanese people (especially teens) like to visit dressed traditionally. This makes the human tid slightly more tolerable. 
+On our walk back, we spot more geikos. It seems Kyoto is the place Japanese people (especially teens) like to visit dressed traditionally. This makes the human tide slightly more tolerable. 
 Kyoto on a cold, rainy weekday might be ideal for us actually.
 
 Back in Osaka, no food, we are exhausted.
