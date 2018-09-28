@@ -33,7 +33,7 @@ On our way, we notice a lot of passers-by or employees of various businesses are
 
 ![stadium]({{site.baseurl}}assets/File101.jpg){:class="img-responsive"}
 
-This mall is not meant for English speakers. We go up and up and up in search of an outdoor shop. The sales assistant knows a few words in English. There are many awkward moments in our conversation. She apologises, I apologise. Most sales can be tax free if you bring your passport. If you bring your passport. 
+This mall is not meant for English speakers. We go up and up and up in search of an outdoors shop. The sales assistant knows a few words in English. There are many awkward moments in our conversation. She apologises, I apologise. Most sales can be tax free if you bring your passport. If you bring your passport. 
 
 My favourite range of shoes:
 
@@ -111,7 +111,8 @@ This turns into a 10 minute struggle of blinking and thinking for the waitress w
 
 We thank them warmly and take our leave.
 During the rest of the walk, we discuss using the hotel onsen. A gender-separated communal bath. I am curious but also anxious.
-I read this article of a guy who is also not much of a nudist.
+[I read this article of a guy who is also not much of a nudist](https://www.intrepidtravel.com/adventures/japan-onsen-guide/){:target="_blank"}
+
 It cheers me up. Andy finally decides for a hot bath in the small but deep bathtub of our room. I take a deep breath and my courage and I go.
 
 I wear a yukata, take a room key, a large towel, a small towel. 
@@ -122,9 +123,9 @@ Second floor, behind some cotton curtains and an automatic door. Once all belong
 
 You wash on a small stool facing a mirror with some products, a shower head, a tab and a bucket. I choose a pacer. A lady who enters shortly after me. I wash for as long as she does. It has to be meticulous. I watch no one and no one looks at me. 
 
-Once I am done. I square up the little towel on my head and get in the bath. It's less hot and more chlorinated than the ryokan's. There is however an outside bath hidden behind bamboo curtains. And a big single person boiling pot. That's the hottest.
+Once I am done, I square up the little towel on my head and get in the bath. It's less hot and more chlorinated than the ryokan's. There is however an outside bath hidden behind bamboo curtains. And a big single person boiling pot. That's the hottest.
 
-It's relaxing but it's hard work. Meticulously washing with peer pressure. That bit.
+It's relaxing but it's hard work. Meticulously washing with peer pressure. That bit is.
 
 And off to bed.
 
