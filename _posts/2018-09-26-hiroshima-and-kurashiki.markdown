@@ -48,6 +48,8 @@ Walking along the arcade is a very different feeling from say Dotombori.
 Reaching the historical center, I trip and with my hand push back up on a wall that cracks under my supernatural strength. It also leaves black on my palm. It's charcoal!
 The clay walls have a waterproof layer of charcoal.
 
+![wall]({{site.baseurl}}assets/File155.jpg){:class="img-responsive"}
+
 The day is very resting. It consists of bench hopping, people gazing, canal strolling.
 
 ![canal]({{site.baseurl}}assets/File156.jpg){:class="img-responsive"}
@@ -56,7 +58,7 @@ The day is very resting. It consists of bench hopping, people gazing, canal stro
 
 ![people]({{site.baseurl}}assets/File159.jpg){:class="img-responsive"}
 
-We are offered a ride on a man pulled chariot which we pass.
+We are offered a ride on a man pulled chariot (i.e. a rickshaw) which we pass.
 
 We get tickets for some canal punting fun. It's very popular. We have 2 hours + to kill until it's our turn.
 ![canal]({{site.baseurl}}assets/File158.jpg){:class="img-responsive"}
@@ -69,7 +71,6 @@ We visit a lot of craft shops, get a few souvenirs for our families.
 
 Some people spend the day watercolouring scenes of the center. 
 
-![canal]({{site.baseurl}}assets/File160.jpg){:class="img-responsive"}
 ![canal]({{site.baseurl}}assets/File165.jpg){:class="img-responsive"}
 ![canal]({{site.baseurl}}assets/File166.jpg){:class="img-responsive"}
 
@@ -121,9 +122,7 @@ There are six levels of spicy for our ramens. To get an idea we go for 0.5. I as
 
 He takes the time to explain the mystery pots on the counter. There is extra chilli available in case 6 is not enough. 
 
-He tells us tonight is the final game of the cup and that he Carp won last year. He shows us a video of people on Hondori celebrating – "1 million!". He uses google translate (we had tried with the awkward waiter - who had almost backed off physically) to tell us that "Behaviour in sake is a lucky item". Free sake is handed to people in celebration!
-
-![ramen]({{site.baseurl}}assets/File175.jpg){:class="img-responsive"}
+He tells us tonight is the final game of the cup and that the Carp won last year. He shows us a video of people on Hondori celebrating – "1 million!". He uses google translate (we had tried with the awkward waiter - who had almost backed off physically) to tell us that "Behaviour in sake is a lucky item". Free sake is handed to people in celebration!
 
 We both go to the onsen which we both exit at the exact same time. We have to gather all of our will to then head back into town. It's worth it. We catch up with string of supporters of all over the center. They highfive each other shouting "yeeeaaah" or something that sounds like that. They highfive us. The atmosphere is genial.
 
@@ -137,7 +136,7 @@ We never feel threatened at any point. It's celebratory and alcohol-heavy but fe
 We reach the center where a chanting crowd is gathered. On TV, we catch sight of the players being showered with champagne (or some sort of foamy alcohol).
 
 <video width="320" height="240" controls>
-  <source src="{{site.baseurl}}assets/video01.mp4" type="video/mp4">
+  <source src="{{site.baseurl}}assets/video1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
