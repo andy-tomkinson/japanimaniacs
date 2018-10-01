@@ -46,11 +46,11 @@ Andy spots in disgust two foreign examples who did not bother reading the signs 
 
 We pass the torii gates only to meet... more gates (10,000 total). All of them orange.
 
-![disgust]({{site.baseurl}}assets/File62.jpg){:class="img-responsive"}
+![gates]({{site.baseurl}}assets/File62.jpg){:class="img-responsive"}
 
 Unfortunately we are not enlightened. I think it's something to do with the crowd, the weather and not being a Japanese monk. Regrettable.
 
-![disgust]({{site.baseurl}}assets/File64.jpg){:class="img-responsive"}
+![monk]({{site.baseurl}}assets/File64.jpg){:class="img-responsive"}
 
 Various shrines are met along the way where people make offers, ring the bell and clap their hands.
 
@@ -152,7 +152,7 @@ Andy reminds me everything comes with rules here. Nyan nyan nyan.
 I go for a berry cup, Andy for the nihon cup. Both of us have a matcha flavoured ball and a buckwheat cookie ball.
 A small teapot each – see rule #1001, we are an icecream shop not a café, you cannot change your tea for a coffee.
 
- ![icecream]({{site.baseurl}}assets/File78.jpg){:class="img-responsive"}
+ ![icecream]({{site.baseurl}}assets/File78_2.jpg){:class="img-responsive"}
 
 With hindsight, biking might be the best way to visit Kyoto. All the main sites are far from each other and the metro network isn't large enough.
 
