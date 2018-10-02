@@ -157,11 +157,11 @@ Pictures of Odaiba waterfront (taken by neither of our professional grade camera
 ![odaiba](../assets/odaiba.jpg){:class="img-responsive"}
 ![odaiba](../assets/odaiba_2.jpg){:class="img-responsive"}
 
-Even though, the last metro is around midnight, we don't want to risk missing it as we know taxis are very very very expensive. 
+Even though the last metro is around midnight, we don't want to risk missing it as we know taxis are very very very expensive. 
 
 I could not live with the constant pressure when I go out of having to finish the night at a manga cafe or capsule hotel (as if I went out).
 
-We walk at a fast pace and using the closest stop we reach jump on a fully automated and fully crammed line.
+We walk at a fast pace and, using the closest stop we reach, jump on a fully automated and fully crammed line.
 
 A short sweat later, we have also admired the city lights peering through the windows of the speedy car.
 

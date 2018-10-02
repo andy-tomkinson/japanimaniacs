@@ -131,7 +131,7 @@ We both go to the onsen which we both exit at the exact same time. We have to ga
 ![fans](../assets/File176.jpg){:class="img-responsive"}
 
 One fan drunk on sake takes a picture with one of the stationed policemen awkwardly wriggling his way out of it. 
-Andy is brave enough to queue for sake. I will have to wait till a nice lady just hands one to me later on. They are very light but nice. Once a barrel is empty the shout and brandish it over their heads before fetching another one. Someone goes to highfive Andy but stops and asks to try his sake with a "very good".
+Andy is brave enough to queue for sake. I will have to wait till a nice lady just hands one to me later on. They are very light but nice. Once a barrel is empty, they shout and brandish it over their heads before fetching another one. Someone goes to highfive Andy but stops and asks to try his sake with a "very good".
 
 We never feel threatened at any point. It's celebratory and alcohol-heavy but feels strangely harmless. One businessman carries another one who can barely walk.
 
