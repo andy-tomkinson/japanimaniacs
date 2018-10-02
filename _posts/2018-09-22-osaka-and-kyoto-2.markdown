@@ -2,7 +2,7 @@
 layout: post
 title:  "Osaka and Kyoto - part 2"
 date:   2018-09-22 19:29:24 +0900
-thumb: ../assets/File195.jpg
+thumb: assets/File195.jpg
 
 ---
 

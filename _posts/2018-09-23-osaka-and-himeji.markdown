@@ -2,7 +2,7 @@
 layout: post
 title:  "Osaka and Himeji"
 date:   2018-09-23 19:29:24 +0900
-thumb: ../assets/File196.jpg
+thumb: assets/File196.jpg
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Lake Yamanakako to Osaka"
 date:   2018-09-19 19:29:24 +0900
-thumb: ../assets/File192.jpg
+thumb: assets/File192.jpg
 
 ---
 

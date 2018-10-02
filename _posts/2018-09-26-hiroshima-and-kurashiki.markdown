@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiroshima and Kurashiki"
 date:   2018-09-26 19:29:24 +0900
-thumb: ../assets/File200.jpg
+thumb: assets/File200.jpg
 
 ---
 
@@ -23,7 +23,7 @@ But after trying, I would not go out of my way to get a nice one - if such a thi
 
 Japanese people apparently have this regularly enough for breakfast that it's an option offered by the hotel.
 A hint could be that it comes in a covered pot. You take off the lid and it doesn't smell particularly bad.
-When you reach for one, all these strings from the ~rot~ fermentation are hanging about.
+When you reach for one, all these strings from the ~~rot~~ fermentation are hanging about.
 You chew it, it's fine, then the after-taste hits you.
 Imagine trying cheese for the first time at 35. That's what it felt like.
 WHAT IS THIS? 

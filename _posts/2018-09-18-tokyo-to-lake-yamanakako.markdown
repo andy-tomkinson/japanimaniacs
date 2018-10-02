@@ -2,7 +2,7 @@
 layout: post
 title:  "Tokyo to Lake Yamanakako"
 date:   2018-09-18 19:29:24 +0900
-thumb: ../assets/File191.jpg
+thumb: assets/File191.jpg
 ---
 
 18/09/2018

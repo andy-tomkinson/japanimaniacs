@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiroshima"
 date:   2018-09-24 19:29:24 +0900
-thumb: ../assets/File197.jpg
+thumb: assets/File197.jpg
 
 ---
 

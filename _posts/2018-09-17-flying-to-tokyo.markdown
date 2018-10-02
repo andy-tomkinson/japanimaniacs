@@ -2,7 +2,7 @@
 layout: post
 title:  "Flying to Tokyo"
 date:   2018-09-17 19:29:24 +0900
-thumb: ../assets/File190.jpg
+thumb: assets/File190.jpg
 ---
 
 16~17/09/2018

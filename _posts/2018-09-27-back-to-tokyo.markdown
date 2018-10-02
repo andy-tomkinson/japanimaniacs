@@ -2,7 +2,7 @@
 layout: post
 title:  "Back to Tokyo"
 date:   2018-09-27 19:29:24 +0900
-thumb: ../assets/File201.jpg
+thumb: assets/File201.jpg
 
 ---
 

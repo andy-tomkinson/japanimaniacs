@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiroshima and Miyajima"
 date:   2018-09-25 19:29:24 +0900
-thumb: ../assets/File198.jpg
+thumb: assets/File198.jpg
 
 ---
 

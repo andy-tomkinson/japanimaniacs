@@ -2,7 +2,7 @@
 layout: post
 title:  "Osaka and Nara"
 date:   2018-09-20 19:29:24 +0900
-thumb: ../assets/File193.jpg
+thumb: assets/File193.jpg
 
 ---
 
