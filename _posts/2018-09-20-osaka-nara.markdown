@@ -2,6 +2,8 @@
 layout: post
 title:  "Osaka and Nara"
 date:   2018-09-20 19:29:24 +0900
+thumb: ../assets/File193.jpg
+
 ---
 
 20/09/2018
@@ -13,7 +15,7 @@ We enjoy a quick breakfast at one of the station's cafés.
 I go for an impenetrable looking sandwich, Andy for a cheese and bacon pastry. 
 My mysterious food is in fact a sweet chilli shrimp cutlet sandwich. It's tasty.
 
-![brekkie]({{site.baseurl}}assets/File41.jpg){:class="img-responsive"}
+![brekkie](../assets/File41.jpg){:class="img-responsive"}
 
 Apart from Andy's find, I have not seen cheese in days. 
 
@@ -35,15 +37,15 @@ It offers touristy shops on your way to the park but also various traditional sh
 Nara's park spreads over 16 hectares composed of shrines, temples and grazing space.
 One of the main attractions greets us in town before even reaching the park.
 
-![deer]({{site.baseurl}}assets/File42.jpg){:class="img-responsive"}
+![deer](../assets/File42.jpg){:class="img-responsive"}
 
-![buck]({{site.baseurl}}assets/File43.jpg){:class="img-responsive"}
+![buck](../assets/File43.jpg){:class="img-responsive"}
 
 Does and bucks are resting on green patches marking our way towards the entrance.
 A few gracefully deign to look at us before heading back to their business.
 Right by the entrance, stands a temple, a shrine and the country's second tallest (only by a few centimetres apparently) pagoda.
 
-![pagoda]({{site.baseurl}}assets/File40.jpg){:class="img-responsive"}
+![pagoda](../assets/File40.jpg){:class="img-responsive"}
 
 What is inside a pagoda though?!
 
@@ -85,16 +87,16 @@ From buses, pour down throngs of students and tourists probably out on a day tri
 Teens have a good time teasing any of their friends feeding the animals.
 We reach gates guarded on either side by wooden guards. Not just your average gate, or your average guard.
 
-![guard]({{site.baseurl}}assets/File38.jpg){:class="img-responsive"}
+![guard](../assets/File38.jpg){:class="img-responsive"}
 
 Pretty scary stuff. A mere forewarming of the awe to come.
 
-![guard]({{site.baseurl}}assets/File39.jpg){:class="img-responsive"}
+![guard](../assets/File39.jpg){:class="img-responsive"}
 
 Once inside the temple, we truly have been cleansed by the rain.
 In all its splendor, the Buddha Vairocana grandly ignores all mere mortals gathered at its feet like tiny ants.
 
-![guard]({{site.baseurl}}assets/File37.jpg){:class="img-responsive"}
+![guard](../assets/File37.jpg){:class="img-responsive"}
 
 This complex with all its grandeur is said to have brought the country on the brink of economic collapse. 
 Yep, we believe that. He used to be entirely gilded.
@@ -103,7 +105,7 @@ You don't need a lot of background to be impressed by the whole thing.
 
 We then take shelter in a café from where we spot ladies in great attire.
 
-![ladies]({{site.baseurl}}assets/File36.jpg){:class="img-responsive"}
+![ladies](../assets/File36.jpg){:class="img-responsive"}
 
 We have also decided this morning to bump our exoticism a notch by wearing waterproofs when everyone else is carrying umbrellas.
 
@@ -138,7 +140,7 @@ We thought we needed toppings but actually the bowls are enough (they have a top
 
 Noobs. We still enjoy our extra toppings and 6 giozas. It's delish.
 
-![buck]({{site.baseurl}}assets/File44.jpg){:class="img-responsive"}
+![buck](../assets/File44.jpg){:class="img-responsive"}
 
 We slurp the noodles like the next Osakian. 
 By which I mean, I check out the guy next to Andy to make sure we do. 
@@ -152,5 +154,5 @@ And off to bed.
 
 Andy's highlight: Being eaten by deer
 
-![owls]({{site.baseurl}}assets/File35.jpg){:class="img-responsive"}
+![owls](../assets/File35.jpg){:class="img-responsive"}
 

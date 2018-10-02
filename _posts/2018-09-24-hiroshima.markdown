@@ -2,6 +2,8 @@
 layout: post
 title:  "Hiroshima"
 date:   2018-09-24 19:29:24 +0900
+thumb: ../assets/File197.jpg
+
 ---
 
 "I will forever dream, simply as I did in my boyhood and therefore suffer only little"
@@ -13,11 +15,11 @@ Today is transfer day. We move our quarters to Hiroshima for the next three days
 
 Once at Shin-Osaka station, Andy realises we have cheated by taking the more frequent NOMOZI line to Hima-ji castle the day before.
 
-![food]({{site.baseurl}}assets/File99.jpg){:class="img-responsive"}
+![food](../assets/File99.jpg){:class="img-responsive"}
 
 This time like good citizens we have to wait a bit longer to get a train on the Sakura line.
 
-![sakura]({{site.baseurl}}assets/File100.jpg){:class="img-responsive"}
+![sakura](../assets/File100.jpg){:class="img-responsive"}
 
 The queues are marked by tape on the floor. The train arrives, some cleaning happens inside. Even the lady waiting in front of me is getting impatient. So I am allowed too.
 
@@ -31,21 +33,21 @@ We try checking in anyway. The clerk is the opposite of the one in Osaka. She is
 
 On our way, we notice a lot of passers-by or employees of various businesses are wearing the colour of the Carps, the local baseball team.
 
-![stadium]({{site.baseurl}}assets/File101.jpg){:class="img-responsive"}
+![stadium](../assets/File101.jpg){:class="img-responsive"}
 
 This mall is not meant for English speakers. We go up and up and up in search of an outdoors shop. The sales assistant knows a few words in English. There are many awkward moments in our conversation. She apologises, I apologise. Most sales can be tax free if you bring your passport. If you bring your passport. 
 
 My favourite range of shoes:
 
-![horrible_shoes]({{site.baseurl}}assets/File102.jpg){:class="img-responsive"}
+![horrible_shoes](../assets/File102.jpg){:class="img-responsive"}
 
-![tram]({{site.baseurl}}assets/File103.jpg){:class="img-responsive"}
+![tram](../assets/File103.jpg){:class="img-responsive"}
 
-![sewer_plaque]({{site.baseurl}}assets/File104.jpg){:class="img-responsive"}
+![sewer_plaque](../assets/File104.jpg){:class="img-responsive"}
 
 We share a crunky bag to maintain our sugar levels (not crunchy, not chunky, CRUNKY)
 
-![crunky]({{site.baseurl}}assets/crunky.jpg){:class="img-responsive"}
+![crunky](../assets/crunky.jpg){:class="img-responsive"}
 
 ## Hiroshima Peace Memorial
 
@@ -53,18 +55,18 @@ We have seen:
 
 * the A-bomb dome
 
-![dome]({{site.baseurl}}assets/File105.jpg){:class="img-responsive"}
+![dome](../assets/File105.jpg){:class="img-responsive"}
 
 * the peace bell
 
 <video width="320" height="240" controls>
-  <source src="{{site.baseurl}}assets/00016.mp4" type="video/mp4">
+  <source src="../assets/00016.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 * the monument to the mobilised students
 
-![students]({{site.baseurl}}assets/File106.jpg){:class="img-responsive"}
+![students](../assets/File106.jpg){:class="img-responsive"}
 
 Students as young as 12 were mobilised to contribute to the war effort.
 
@@ -75,13 +77,13 @@ An ancient Japanese legend promises that anyone who folds a thousand origami cra
 
 * the monument to the Korean victims
 
-![students]({{site.baseurl}}assets/File107.jpg){:class="img-responsive"}
+![students](../assets/File107.jpg){:class="img-responsive"}
 
 * the museum
 
 Right-click on the picture and open in a new tab:
 
-![panorama]({{site.baseurl}}assets/panorama.jpg){:class="img-responsive"}
+![panorama](../assets/panorama.jpg){:class="img-responsive"}
 
 I won't go into details about what we thought or felt. 
 It's a poignant testimony to what happened there.
@@ -96,7 +98,7 @@ The menu we have to find by ourselves. It's sat next to us on the bench. On the 
 
 The menu has pictures and yes, it's convenient. I choose some okonomiyaki mix (cabbage pancake) and Andy some teppanyaki and rice. Every exchange with the waiter is an ordeal for both parties involved. It seems they want to apply the same standards to us so they desperately try and make us understand by speaking more Japanese. It's not working – for the record. We share our food. Hot plates are quite fun even though we have no idea what we are doing. The chef expertly handles more elaborate orders on the big hot plate.
 
-![restaurant]({{site.baseurl}}assets/File108.jpg){:class="img-responsive"}
+![restaurant](../assets/File108.jpg){:class="img-responsive"}
 
 The waitress looks at us either with despair or just staring into space. I ask whether we are doing anything wrong but quickly pedal back as she does not understand any English. 
 
@@ -120,7 +122,7 @@ I wear a yukata, take a room key, a large towel, a small towel.
 
 Second floor, behind some cotton curtains and an automatic door. Once all belongings are left in the basket of the communal changing room, armed with the small towel, you move to the onsen room. 
 
-![onsen]({{site.baseurl}}assets/onsen.jpg){:class="img-responsive"}
+![onsen](../assets/onsen.jpg){:class="img-responsive"}
 
 You wash on a small stool facing a mirror with some products, a shower head, a tab and a bucket. I choose a pacer. A lady who enters shortly after me. 
 

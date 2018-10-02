@@ -2,6 +2,8 @@
 layout: post
 title:  "Osaka and Kyoto - part 2"
 date:   2018-09-22 19:29:24 +0900
+thumb: ../assets/File195.jpg
+
 ---
 
 22/09/2018
@@ -36,21 +38,21 @@ I struggle keeping Andy from joining the queue*.
 
 We change trains to get to [Fushimi Inari-taisha](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha){:target="_blank"}. The weather is very muggy. Convenient since the backpack is somehow glued to one of our backs while the plastic umbrella is to the other person's arm. Sexy.
 
-![selfie]({{site.baseurl}}assets/File79.jpg){:class="img-responsive"}
+![selfie](../assets/File79.jpg){:class="img-responsive"}
 
 The entrance is as packed as Kyoto's station.
 This once we have so many available examples of how to use the cleansing fountain that we cannot get it wrong.
 Andy spots in disgust two foreign examples who did not bother reading the signs surrounding us or watching people opposite them and just let the water from their hands and mouth fall back in the common fountain. Lovely.
 
-![disgust]({{site.baseurl}}assets/File61.jpg){:class="img-responsive"}
+![disgust](../assets/File61.jpg){:class="img-responsive"}
 
 We pass the torii gates only to meet... more gates (10,000 total). All of them orange.
 
-![gates]({{site.baseurl}}assets/File62.jpg){:class="img-responsive"}
+![gates](../assets/File62.jpg){:class="img-responsive"}
 
 Unfortunately we are not enlightened. I think it's something to do with the crowd, the weather and not being a Japanese monk. Regrettable.
 
-![monk]({{site.baseurl}}assets/File64.jpg){:class="img-responsive"}
+![monk](../assets/File64.jpg){:class="img-responsive"}
 
 Various shrines are met along the way where people make offers, ring the bell and clap their hands.
 
@@ -58,29 +60,29 @@ You can go up to the top of the hill and meet more shrines and more gates. And b
 
 We stop half-way. The whole temple is surrounded by bamboo trees and the type of vegetation that flourish in a rather dark, wet and warm enviromnent.
 
-![vegetation]({{site.baseurl}}assets/File63.jpg){:class="img-responsive"}
+![vegetation](../assets/File63.jpg){:class="img-responsive"}
 
 Once outside the temple, we spot a flock a street food sellers who I guess are permanently there because of the number of tourists. Some of their treats are supposed to only be sold during festival times. But good for us I suppose. We get our sticky hands on a [dango](https://en.wikipedia.org/wiki/Dango){:target="_blank"}. It's marshmallowy yummy!
 
-![dango]({{site.baseurl}}assets/File65.jpg){:class="img-responsive"}
+![dango](../assets/File65.jpg){:class="img-responsive"}
 
 Back to Kyoto's station, we buy a day ticket out of convenience as single tickets work by zone fares and it's not that convenient to work out. 
 
 Starting with the closing temple from the previous day, we now have time to explore in socks the magnificent structure made of dark wood (which wood?). I forgot to mention the smells. When passing near bamboo sliding doors or at this temple, the wood is unmistakably scented. Even incensed in the present case.
 
-![temple]({{site.baseurl}}assets/File66.jpg){:class="img-responsive"}
+![temple](../assets/File66.jpg){:class="img-responsive"}
 
 We lose a postcard I have just finished writing which delays us just enough to catch a wedding happening.
 The bride and groom are wearing highly elegant and presumably traditional attires.
 
-![wedding]({{site.baseurl}}assets/File67.jpg){:class="img-responsive"}
+![wedding](../assets/File67.jpg){:class="img-responsive"}
 
 Some of the attending party are also clad in rich-looking wonderfully coloured kimonos.
 We watch for a bit with wonder and take a few snaps but it feels a bit rude so we move on.
 
 The next room is as intricately adorned as the main hall. Golden suspensions, wooden reliefs, it is probably something along the lines of marrying in the Minster (or any other cathedral for that matter). 
 
-![wedding]({{site.baseurl}}assets/File68.jpg){:class="img-responsive"}
+![wedding](../assets/File68.jpg){:class="img-responsive"}
 
 With our shoes back on, we walk to the "nearest" metro station. Which turns out to be quite far away.
 We come to the realisation that the metro network in Kyoto is quite small and our day ticket (provided you do not use the bus) – overrated. 
@@ -99,20 +101,20 @@ It's lunch time and we are set on trying Kobe beef (or grade A beef that you sho
 On the same street a sign entirely in Japanese except for "All 900 円" gets our attention. 
 At the end of a back alley behind some rusty emergency stairs, where some boxes of vegetable are waiting to be picked up. Now, that's the one.
 
-![backalley]({{site.baseurl}}assets/File73.jpg){:class="img-responsive"}
+![backalley](../assets/File73.jpg){:class="img-responsive"}
 
 We are asked by sign mostly to wait for 5 minutes. Sat at a counter encircling the kitchen, not unlike the ramen place. No gaijin (foreigners) but us. Win. 
 
 They fill in trays with a bowl of tofu topped up with soy sauce, a bowl of rice, some pickled takuan (a sort of radish I had to google), a soup and whatever set you chose from the menu.
 
-![trays]({{site.baseurl}}assets/File69.jpg){:class="img-responsive"}
+![trays](../assets/File69.jpg){:class="img-responsive"}
 
 After two very confusing exchanges, Andy goes for chicken, I go for grilled fish the only options left.
 Popular.
 
-![fish]({{site.baseurl}}assets/File70.jpg){:class="img-responsive"}
+![fish](../assets/File70.jpg){:class="img-responsive"}
 
-![chicken]({{site.baseurl}}assets/File71.jpg){:class="img-responsive"}
+![chicken](../assets/File71.jpg){:class="img-responsive"}
 
 The cook grills everything on a giant barbecue above which hangs a dry chicken carcass.
 We enjoy this hearty and tasty meal. Andy repays the chef with a "gochisō-sama deshita".
@@ -126,7 +128,7 @@ Andy for a book we think might be similar to "Watching the English", called "The
 
 We get to the Imperial Palace, walk around 2/3 of it, can't find the entrance, find another entrance that states "fully booked for the day", give my feet a rest, give the first structure left-over third a go.
 
-![palace]({{site.baseurl}}assets/File74.jpg){:class="img-responsive"}
+![palace](../assets/File74.jpg){:class="img-responsive"}
 
  Bam. We're in 7 minutes before last admittance. 
 
@@ -135,13 +137,13 @@ We get to the Imperial Palace, walk around 2/3 of it, can't find the entrance, f
  Three waiting rooms are glass-walled and painted respectively with cherry trees, cranes and tigers.
  The mats are edged in harmony with the walls. It's sumptuous.
 
- ![palace]({{site.baseurl}}assets/File75.jpg){:class="img-responsive"}
+ ![palace](../assets/File75.jpg){:class="img-responsive"}
 
  The order of nobility dictates where you wait. If waiting in the cherry tree room, you could not use the coach porch and had to use the stepping stone to remind you that your ascendance sucked.
 
  The parting walls between halls are delicately painted.
 
- ![walls]({{site.baseurl}}assets/File76.jpg){:class="img-responsive"}
+ ![walls](../assets/File76.jpg){:class="img-responsive"}
 
 After the visit of this architectural masterwork, we agree that an icecream would be in order.
 When would it not?
@@ -152,7 +154,7 @@ Andy reminds me everything comes with rules here. Nyan nyan nyan.
 I go for a berry cup, Andy for the nihon cup. Both of us have a matcha flavoured ball and a buckwheat cookie ball.
 A small teapot each – see rule #1001, we are an icecream shop not a café, you cannot change your tea for a coffee.
 
- ![icecream]({{site.baseurl}}assets/File78_2.jpg){:class="img-responsive"}
+ ![icecream](../assets/File78_2.jpg){:class="img-responsive"}
 
 With hindsight, biking might be the best way to visit Kyoto. All the main sites are far from each other and the metro network isn't large enough.
 

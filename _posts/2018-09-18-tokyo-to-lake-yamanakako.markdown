@@ -2,15 +2,16 @@
 layout: post
 title:  "Tokyo to Lake Yamanakako"
 date:   2018-09-18 19:29:24 +0900
+thumb: ../assets/File191.jpg
 ---
 
 18/09/2018
 
-![toilet]({{site.baseurl}}assets/File10.jpg){:class="img-responsive"}
+![toilet](../assets/File10.jpg){:class="img-responsive"}
 
 We get up at 8, have a shower and head down for our first Japanese breakfast!
 
-![view]({{site.baseurl}}assets/File9.jpg){:class="img-responsive"}
+![view](../assets/File9.jpg){:class="img-responsive"}
 
 I have high fish expectations. 
 
@@ -44,7 +45,7 @@ One side is very quiet, full of chirping birds, the other is hell.
 We reach Tokyo station where we jump on the Tokaido line, next stop Kozu.
 Kozu station boasts a sea view and some pretty mean vending machines (ICECREAM again!!!).
 
-![sea]({{site.baseurl}}assets/File11.jpg){:class="img-responsive"}
+![sea](../assets/File11.jpg){:class="img-responsive"}
 
 This is when I realise you can also use your SUICA (ie the metro top up card) to pay for these.
 I have some coins (500, 100, 10, 1 and one unknown with a hole in it). 
@@ -67,11 +68,11 @@ Our lady host shows us to our room. It's fantastic.
 Tatami mats are just great.
 We have a handy guide to put on our yukata robes (ie very comfy cotton robes) and obi belts.
 
-![food]({{site.baseurl}}assets/File12.jpg){:class="img-responsive"}
+![food](../assets/File12.jpg){:class="img-responsive"}
 
 Once dressed, and after having some tea, we head to the onsen.
 
-![food]({{site.baseurl}}assets/File13.jpg){:class="img-responsive"}
+![food](../assets/File13.jpg){:class="img-responsive"}
 
 We first wash on the side and rinse, leaving everything behind. 
 Everything in your hair or your body. I mean it. Everything.
@@ -88,16 +89,16 @@ That kind of relaxed.
 At 6:15pm, we have tea/dinner/supper (ie the last meal of the day). There is so.much.food.
 We are given some grape juice and white wine, a [sweet fish](https://en.wikipedia.org/wiki/Ayu) each, which you're supposed to eat from head to tail, tempura, a fish soup, a filled bun that looks and tastes a bit like mash. A lot of food.
 
-![food]({{site.baseurl}}assets/File14.jpg){:class="img-responsive"}
+![food](../assets/File14.jpg){:class="img-responsive"}
 
 Finishing up is hard and we just skip the rice (we only figured out the rice bit towards the end anyway).
 Honestly too much food. We try the massage chair again and have a walk around the koi pond in garden slippers.
 
-![garden]({{site.baseurl}}assets/File15.JPG){:class="img-responsive"}
+![garden](../assets/File15.JPG){:class="img-responsive"}
 
 To bed now, see you tomorrow Mount Fuji!
 
-![bedding]({{site.baseurl}}assets/File16.JPG){:class="img-responsive"}
+![bedding](../assets/File16.JPG){:class="img-responsive"}
 
 Andy's highlight: Sweating and soaking in the onsen
 

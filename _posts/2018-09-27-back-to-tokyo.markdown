@@ -2,6 +2,8 @@
 layout: post
 title:  "Back to Tokyo"
 date:   2018-09-27 19:29:24 +0900
+thumb: ../assets/File201.jpg
+
 ---
 
 27/09/2018
@@ -10,7 +12,7 @@ Hopefully this entry will be quite short.
 
 It's transfer day, and we are heading all the way back to Tokyo.
 
-![map]({{site.baseurl}}assets/hiro-tokyo.jpg){:class="img-responsive"}
+![map](../assets/hiro-tokyo.jpg){:class="img-responsive"}
 
 At the best of times, it's long.
 We first think we are going to be able to catch a direct shinkansen using the Hikari line.
@@ -63,13 +65,13 @@ We have no particular place in mind, the avenues spurt out all sort of options f
 I get overwhelmed, we just head down some stairs. 
 In Japan, we find it normal by now to consider basements for food venues. 
 
-![basement]({{site.baseurl}}assets/File183.jpg){:class="img-responsive"}
+![basement](../assets/File183.jpg){:class="img-responsive"}
 
 The waitress indicates a table, no sign of warmth passing her eyes, lips or tone at any point.
 On the table, a screen awaits us. 
 We are served some cabbage as a snack served with some tonkatsu sauce, we are unsure if we are in an izakaya (sort of Japanese pub) or not.
 
-![cabbage]({{site.baseurl}}assets/File189.jpg){:class="img-responsive"}
+![cabbage](../assets/File189.jpg){:class="img-responsive"}
 
 It is a restaurant entirely dedicated to chicken. At least one member of the kitchen staff is not Japanese.
 He peers at us curiously from the visible booth. The place is pretty empty.
@@ -79,25 +81,25 @@ We catch whiffs of tobacco every now and again with a light yet consistent odour
 We order:
 * ginnan seeds - new for us, tasty and dangerous
 
-![ginnan]({{site.baseurl}}assets/File182.jpg){:class="img-responsive"}
+![ginnan](../assets/File182.jpg){:class="img-responsive"}
 
 "When eaten in large quantities or over a long period, the gametophyte (meat) of the seed can cause poisoning by 4'-O-methylpyridoxine (MPN). MPN is heat-stable and not destroyed by cooking. Studies have demonstrated the convulsions caused by MPN can be prevented or treated successfully with pyridoxine (vitamin B6)."
 
 * a set of skewers, incidentally (most definitely not intentionally) including a skin-only skewer again
 Novelty, we get a cartilage skewer this time and a few offels ones
 
-![skewers]({{site.baseurl}}assets/File179.jpg){:class="img-responsive"}
+![skewers](../assets/File179.jpg){:class="img-responsive"}
 
 * chicken with (never enough) cheese
 
-![chicken]({{site.baseurl}}assets/File180.jpg){:class="img-responsive"}
+![chicken](../assets/File180.jpg){:class="img-responsive"}
 
 * A drink called "Hoppy" that comes with mixer.
 Approximately two seconds later, I have already forgotten the particulars of its taste.
 
 "Hoppy (ホッピー Hoppii) is a beer-flavored almost non-alcoholic drink (0.8% alcohol) [...] mixed with shōchū (a Japanese distilled beverage), it is considered a substitute for beer [...]. The mixed drink is referred to as Hoppy as well. It is still a staple among some Tokyo residents, and has experienced a retro revival of late. It is a popular item at izakaya (Japanese-style pubs)."
 
-![hoppy]({{site.baseurl}}assets/File181.jpg){:class="img-responsive"}
+![hoppy](../assets/File181.jpg){:class="img-responsive"}
 
 The Brewdog in Roppongi has a great selection of Mikkeler.
 The fauna is composed of mostly foreigners - tourists and locals.
@@ -112,7 +114,7 @@ Ticked off, nothing to see, moving on.
 Fed and watered, we take a metro which connects with a JR station. 
 
 We find a book vending machine just because Japan is that much better than us:
-![book]({{site.baseurl}}assets/File186.jpg){:class="img-responsive"}
+![book](../assets/File186.jpg){:class="img-responsive"}
 
 We hop on a JR line. Everything happens so fast.
 
@@ -126,20 +128,20 @@ Don't ask.
 
 We have successfully remoleculized at Tokyo Teleport Station.
 
-![teleport]({{site.baseurl}}assets/File184.jpg){:class="img-responsive"}
+![teleport](../assets/File184.jpg){:class="img-responsive"}
 
 We exit and are faced with Venus ford a massive mall and what we can assume is the Tokyo Eye?
 
-![steam]({{site.baseurl}}assets/File185.jpg){:class="img-responsive"}
+![steam](../assets/File185.jpg){:class="img-responsive"}
 
 Further on a wide pedestrian bridge overlooking a blade-runner decor.
 Interloping bridges and roads, bridges, punctuated by intensely lit buildings.
-![twins]({{site.baseurl}}assets/File187.jpg){:class="img-responsive"}
+![twins](../assets/File187.jpg){:class="img-responsive"}
 
 Except it's not going towards the waterfront or the Rainbow bridge. Andy feels like this bridge's hard done by.
 
 After playing in a candy-striped art structure, we struggle but eventually find our way to the waterfront promenade. 
-![art]({{site.baseurl}}assets/File188.jpg){:class="img-responsive"}
+![art](../assets/File188.jpg){:class="img-responsive"}
 
 The water offers a mirror to its crown of skyscrapers. The end of the walk is in sight, what is not is the entrance to the bridge pedestrian path.
 
@@ -152,8 +154,8 @@ It's not the end of the world at all, mostly of our nightly walk.
 We get closer to the waterfront and investigate the park where there is no direct street lighting and which used to be a fortress.
 
 Pictures of Odaiba waterfront (taken by neither of our professional grade cameras):
-![odaiba]({{site.baseurl}}assets/odaiba.jpg){:class="img-responsive"}
-![odaiba]({{site.baseurl}}assets/odaiba_2.jpg){:class="img-responsive"}
+![odaiba](../assets/odaiba.jpg){:class="img-responsive"}
+![odaiba](../assets/odaiba_2.jpg){:class="img-responsive"}
 
 Even though, the last metro is around midnight, we don't want to risk missing it as we know taxis are very very very expensive. 
 

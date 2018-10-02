@@ -2,13 +2,15 @@
 layout: post
 title:  "Lake Yamanakako to Osaka"
 date:   2018-09-19 19:29:24 +0900
+thumb: ../assets/File192.jpg
+
 ---
 
 19/09/2018
 
 Before falling asleep, we had devised two plans. 
 
-![brekkie1]({{site.baseurl}}assets/File20.jpg){:class="img-responsive"}
+![brekkie1](../assets/File20.jpg){:class="img-responsive"}
 
 Plan A:
 * wake up at 6:30
@@ -24,20 +26,20 @@ Andy woke up around 4am, we ended up starting the walk at 5:30 am.
 Clouds laid heavily on the mountain tops across the lake.
 It did not bode well.
 
-![clouds]({{site.baseurl}}assets/File21.jpg){:class="img-responsive"}
+![clouds](../assets/File21.jpg){:class="img-responsive"}
 
 Long story short, after a pleasant 40 min * 2 walk, we still only had seen Fuji in pictures.
 We headed back and followed through with the onsen and breakfast.
 
-![squirrel]({{site.baseurl}}assets/File19.jpg){:class="img-responsive"}
+![squirrel](../assets/File19.jpg){:class="img-responsive"}
 
 Caramelised fish + nuts, soup, pan-fried salmon, some black veg or algae, a salad (lettuce tomato kiwi), roe wrapped fish, a steamed pot of mushrooms, bean sprouts, 1 pork sausage and soy.
 The lady host (and cook) points to the soup authoritavely as she pours a very vinegary soy sauce in the bowl for me to scoop the soup into.
 We leave our hosts to get back to the station for Osaka!
 
-![brekkie1]({{site.baseurl}}assets/File17.jpg){:class="img-responsive"}
+![brekkie1](../assets/File17.jpg){:class="img-responsive"}
 
-![brekkie2]({{site.baseurl}}assets/File18.jpg){:class="img-responsive"}
+![brekkie2](../assets/File18.jpg){:class="img-responsive"}
 
 We end up travelling for 5 hours 30... 
 
@@ -61,7 +63,7 @@ It's our first ride on the Shinkansen (ie the bullet train, it can go up to 320 
 We agree on walking to the hotel being quite sick of transport. 
 It's located in the business district of Osaka and big towers sprawl front and back.
 
-![brekkie2]({{site.baseurl}}assets/File22.jpg){:class="img-responsive"}
+![brekkie2](../assets/File22.jpg){:class="img-responsive"}
 
 We have read Osaka is considered the rudest of Japanese cities.
 The hotel clerk is curt, Andy – who has very early on remarked that politeness requires handing things with 2 hands – remarks that she only uses one hand!
@@ -77,13 +79,13 @@ It's closed or shut.
 Around us, coloured hair, well-defined polished styles, funky shops.
 We spot a few love hotels with adult entertainment. 
 
-![brekkie2]({{site.baseurl}}assets/File23.jpg){:class="img-responsive"}
+![brekkie2](../assets/File23.jpg){:class="img-responsive"}
 
-![brekkie2]({{site.baseurl}}assets/File24.jpg){:class="img-responsive"}
+![brekkie2](../assets/File24.jpg){:class="img-responsive"}
 
 And finally find a place which seems to do fried skewers (kushikatsu) AND octoballs. Yey!
 
-![brekkie2]({{site.baseurl}}assets/File25.jpg){:class="img-responsive"}
+![brekkie2](../assets/File25.jpg){:class="img-responsive"}
 
 I order the balls, Andy a set of 10 skewers. One detail, it's "Make your own octoballs".
 I am so helpless that Andy takes over then the waiter. The second set is done by the waiter and then the waitress.
@@ -95,28 +97,28 @@ A hot mould complete with a gas bottle (health and safety anyone?):
 * cover in mayo, soy sauce, onion flakes and parsley
 * enjoy!
 
-![brekkie2]({{site.baseurl}}assets/File26.jpg){:class="img-responsive"}
+![brekkie2](../assets/File26.jpg){:class="img-responsive"}
 
 The veg and meat skewers are nice too. The dipping sauce is shared, so __no double dipping__.
 I have a plum liqueur, Andy a beer.
 
 J-pop is blaring and opposite us on the TV, among some incomprehensible videos, Bernadette Chirac in a bakery somewhere in Japan. Yep.
 
-![brekkie2]({{site.baseurl}}assets/File27.jpg){:class="img-responsive"}
+![brekkie2](../assets/File27.jpg){:class="img-responsive"}
 
 Well fed, we are ready to take on Dotonbori. It's huge, silly huge.
 It's packed with gaming/gambling places, filled with mostly boys or men playing.
 
-![brekkie2]({{site.baseurl}}assets/File28.jpg){:class="img-responsive"}
+![brekkie2](../assets/File28.jpg){:class="img-responsive"}
 
 Selfies taker are amassed in front of the running man.
 We walk for what feels like an eternity and decide that we can't conquer it all in one night.
 
-![brekkie2]({{site.baseurl}}assets/File29.jpg){:class="img-responsive"}
+![brekkie2](../assets/File29.jpg){:class="img-responsive"}
 
-![brekkie2]({{site.baseurl}}assets/File30.jpg){:class="img-responsive"}
+![brekkie2](../assets/File30.jpg){:class="img-responsive"}
 
-![brekkie2]({{site.baseurl}}assets/File31.jpg){:class="img-responsive"}
+![brekkie2](../assets/File31.jpg){:class="img-responsive"}
 
 On the way back to the hotel, we do a pit stop at the Beer Belly. It's Minoh's beer dedicated pub.
 We have a few pints and some. Our favourite is the Peach Weizen. 
@@ -126,13 +128,13 @@ Only with chopsticks. I resist the urge to take a picture on the sly.
 
 We go to bed drunk and with very aching feet.
 
-![brekkie2]({{site.baseurl}}assets/File32.jpg){:class="img-responsive"}
+![brekkie2](../assets/File32.jpg){:class="img-responsive"}
 
-![brekkie2]({{site.baseurl}}assets/File33.jpg){:class="img-responsive"}
+![brekkie2](../assets/File33.jpg){:class="img-responsive"}
 
 Andy's  highlight: Dotomburi.
 
-![brekkie2]({{site.baseurl}}assets/File34.jpg){:class="img-responsive"}
+![brekkie2](../assets/File34.jpg){:class="img-responsive"}
 
 
 
