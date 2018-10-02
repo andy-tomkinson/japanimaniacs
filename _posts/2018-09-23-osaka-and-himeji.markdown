@@ -136,6 +136,8 @@ We binge.
 We pay a grand total of £18 for 2. Last time we tried Yo sushi for a snack, we spent around £40/50.
 I want to live here and I mean here in this venue.
 
+The owner also gives a discount coupon as we leave. All for 95. Can you believe it?
+
 We go out and catch a glimpse of a few street singers on our way back.
 
 I am on cloud 9 (or 57). I feel like the manga trope of the keen eater, full of food.

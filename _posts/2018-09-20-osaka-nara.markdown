@@ -39,15 +39,15 @@ One of the main attractions greets us in town before even reaching the park.
 
 ![buck]({{site.baseurl}}assets/File43.jpg){:class="img-responsive"}
 
-Deer and bucks are resting on green patches marking our way towards the entrance.
-A few gracefully deign look at us before heading back to their business.
+Does and bucks are resting on green patches marking our way towards the entrance.
+A few gracefully deign to look at us before heading back to their business.
 Right by the entrance, stands a temple, a shrine and the country's second tallest (only by a few centimetres apparently) pagoda.
 
 ![pagoda]({{site.baseurl}}assets/File40.jpg){:class="img-responsive"}
 
 What is inside a pagoda though?!
 
-The shrine is erected to one of the disciples of Buddah, only the English description is identical to the one we will read later under a different disciple. 
+The shrine is erected to one of the disciples of Buddha, only the English description is identical to the one we will read later under a different disciple. 
 Go figure.
 
 You can rub the matching body part on your and his body and you will feel better the caption says (something like that). I rub my feet something bad. Constant walking has taken its toll. Andy rubs his wrist.
@@ -92,7 +92,7 @@ Pretty scary stuff. A mere forewarming of the awe to come.
 ![guard]({{site.baseurl}}assets/File39.jpg){:class="img-responsive"}
 
 Once inside the temple, we truly have been cleansed by the rain.
-In all its splendor, the Buddah Vairocana grandly ignores all mere mortals gathered at its feet like tiny ants.
+In all its splendor, the Buddha Vairocana grandly ignores all mere mortals gathered at its feet like tiny ants.
 
 ![guard]({{site.baseurl}}assets/File37.jpg){:class="img-responsive"}
 

@@ -19,7 +19,7 @@ As we get in, my excited greeting to the waitress is met with cold indifference.
 I am actually surprised and by no means deterred. 
 The buffet turns out to be very average, even though we do try strange food.
 
-I fail to help myself to some yuba (ie soy skin).
+I fail to help myself to some yuba (ie tofu skin).
 Frankly it's like helping yourself to milk skin with chopsticks. 
 Setting yourself up for failure. Do try at home and let me know how it goes.
 
