@@ -39,7 +39,7 @@ It's so busy! People are more rude. I had forgotten.
 
 We find our hotel - not the APA chain for the first time in this trip. 
 
-We go past an empty square with a screaming screen advertising amongst others MacBeth Metal and Judas Priest.
+We go past an empty square with a screaming screen advertising amongst others Metal MacBeth and Judas Priest.
 
 Up some very steep and unnecessary stairs. 
 
@@ -85,8 +85,9 @@ We order:
 
 "When eaten in large quantities or over a long period, the gametophyte (meat) of the seed can cause poisoning by 4'-O-methylpyridoxine (MPN). MPN is heat-stable and not destroyed by cooking. Studies have demonstrated the convulsions caused by MPN can be prevented or treated successfully with pyridoxine (vitamin B6)."
 
-* a set of skewers, incidentally (most definitely not intentionally) including a skin-only skewer again
-Novelty, we get a cartilage skewer this time and a few offels ones
+* a set of skewers, incidentally (most definitely not intentionally) including a skin-only skewer again.
+
+Novelty, we get a cartilage skewer this time and a few offal ones
 
 ![skewers](../assets/File179.jpg){:class="img-responsive"}
 

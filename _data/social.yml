@@ -1,14 +1,14 @@
 # RRSSB
 facebook: true
 twitter: true
-googleplus: true
+googleplus: false
 linkedin: false
 reddit: true
-hackernews: true
-pinterest: false
+hackernews: false
+pinterest: true
 tumblr: false
 pocket: true
 email: false
 
 # Disqus
-disqus_shortname: 'example'
+disqus_shortname: 'https-andy-tomkinson-github-io-japantics'

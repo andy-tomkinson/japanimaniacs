@@ -81,7 +81,7 @@ It is a big Japanese hotel chain.
 We get to our room, wonder at our very own toilets, take a shower, dump our bags and head back outside.
 We are staying near the Imperial Palace. 
 
-![Imperial](../assets/File3.jpg"){:class="img-responsive"}
+![Imperial](../assets/File3.jpg){:class="img-responsive"}
 
 It's 9:20pm and a party of guards looks like they are searching for something on the other side of the moat.
 We wander down as runners and bikes go past us. 
