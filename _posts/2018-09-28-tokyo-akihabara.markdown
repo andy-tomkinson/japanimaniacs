@@ -32,7 +32,7 @@ The place offers a multitude of shacks to eat at.
 Their price do not seem on the low side relative to the produce being sold.
 
 I cannot resist a juicy oyster:
-![oysters](../assets/File207.jpg){:class="img-responsive"}
+![oysters](../assets/File207_1.jpg){:class="img-responsive"}
 
 Andy settles for a sweet egg roll, a popular option (everyone is instagramming it instead of eating it):
 ![egg_roll](../assets/File206.jpg){:class="img-responsive"}
